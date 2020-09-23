@@ -19,5 +19,5 @@ ___
 ___
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JAGrenier)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAGrenier)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAGrenier)
 (https://github.com/anuraghazra/github-readme-stats)
