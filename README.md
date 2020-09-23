@@ -5,7 +5,7 @@
 * When not at the computer I enjoy Mountain Biking, Hiking, and Rock Climbing. 
 * My pronouns are she/her 
 
-## Connect with me: 
+# Connect with me: 
 [LinkedIn](https://www.linkedin.com/in/jennifer-a-grenier/)
 
 
