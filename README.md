@@ -14,3 +14,4 @@ HTML, CSS, Javascript, Ruby, Ruby on Rails, ActiveRecords, Git, and SQL
 ___
 
 ## Blog Posts 
+[Notetaking While Learning to Code](https://medium.com/@jenniferagrenier/how-totake-notes-while-learning-to-code-4ae9d4ac0f63)
