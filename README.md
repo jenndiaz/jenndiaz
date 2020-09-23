@@ -18,4 +18,6 @@ ___
 [Notetaking While Learning to Code](https://medium.com/@jenniferagrenier/how-totake-notes-while-learning-to-code-4ae9d4ac0f63)
 ___
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JAGrenier)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JAGrenier)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAGrenier)
+(https://github.com/anuraghazra/github-readme-stats)
