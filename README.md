@@ -8,4 +8,9 @@
 ## Connect with me: 
 [LinkedIn](https://www.linkedin.com/in/jennifer-a-grenier/)
 
+## Languages and Tools 
+HTML, CSS, Javascript, Ruby, Ruby on Rails, ActiveRecords, Git, and SQL 
 
+___
+
+## Blog Posts 
