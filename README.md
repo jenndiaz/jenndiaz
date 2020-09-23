@@ -1,22 +1,11 @@
-### I am a Full Stack Developer based in Denver Colorado.
-*I have a background in outdoor recreation and customer service. 
-*I am currently a student at the Flatiron School working through the Full Time Software Engineer Immersive. 
-*I look forward to collaborting and connecting with other developers. 
-*When not at the computer I enjoy Mountain Biking, Hiking, and Rock Climbing. 
-*My pronouns are she/her 
+### I am a Full Stack Developer based in Denver Colorado.🏔
+* I have a background in outdoor recreation and customer service. 
+* I am currently a student at the Flatiron School working through the Full Time Software Engineer Immersive. 
+* I look forward to collaborting and connecting with other developers. 
+* When not at the computer I enjoy Mountain Biking, Hiking, and Rock Climbing. 
+* My pronouns are she/her 
 
 ## Connect with me: 
-[](https://www.linkedin.com/in/jennifer-a-grenier/)<!--
-**JAGrenier/JAGrenier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedIn](https://www.linkedin.com/in/jennifer-a-grenier/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
