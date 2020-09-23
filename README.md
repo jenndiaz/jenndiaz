@@ -16,5 +16,6 @@ ___
 
 ## Blog Posts 
 [Notetaking While Learning to Code](https://medium.com/@jenniferagrenier/how-totake-notes-while-learning-to-code-4ae9d4ac0f63)
-__
+___
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JAGrenier)](https://github.com/anuraghazra/github-readme-stats)
