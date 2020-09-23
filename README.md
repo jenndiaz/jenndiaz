@@ -6,13 +6,13 @@
 * When not at the computer I enjoy Mountain Biking, Hiking, and Rock Climbing. 
 * My pronouns are she/her. 
 
-# Connect with me: 
+### Connect with me: 
 [LinkedIn](https://www.linkedin.com/in/jennifer-a-grenier/)
 
-# Languages and Tools 
+### Languages and Tools 
 HTML, CSS, Javascript, Ruby, Ruby on Rails, ActiveRecords, Git, and SQL 
 ___
 
-# Blog Posts 
+### Blog Posts 
 [Notetaking While Learning to Code](https://medium.com/@jenniferagrenier/how-totake-notes-while-learning-to-code-4ae9d4ac0f63)
 
