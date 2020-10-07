@@ -13,4 +13,5 @@ ___
 
 ### Blog Posts 
 [Notetaking While Learning to Code](https://medium.com/@jenniferagrenier/how-totake-notes-while-learning-to-code-4ae9d4ac0f63)
+[A Quick Intro to HTML and Web Accessibility](https://medium.com/@jenniferagrenier/an-introduction-to-html-and-digital-accessibility-88e2a8f65617)
 
