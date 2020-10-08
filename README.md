@@ -1,5 +1,5 @@
 # 👩🏼‍💻 I am a Full Stack Developer based in Denver Colorado 🏔
-* I have a background in community development, team buidling, and outdoor recreation instruction. 
+* I have a background in community development, team building, and outdoor recreation instruction. 
 * I am passionate about web development that is accessible to all users. 
 * I look forward to collaborting and connecting with other developers. 
 * When not at my computer I enjoy Mountain Biking, Hiking, and Rock Climbing. 
