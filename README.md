@@ -12,7 +12,10 @@ HTML, CSS, Javascript, React.js, Node.js, Ruby, Ruby on Rails, ActiveRecords, Gi
 ___
 
 ### Blog Posts 
-[Notetaking While Learning to Code](https://medium.com/@jenniferagrenier/how-totake-notes-while-learning-to-code-4ae9d4ac0f63)
-<br>
+[Book Recommendations for Software Developers](https://jagrenier.medium.com/book-recommendations-for-software-developers-a491ff97134c)
+<br> 
 [A Quick Intro to HTML and Web Accessibility](https://medium.com/@jenniferagrenier/an-introduction-to-html-and-digital-accessibility-88e2a8f65617)
+<br>
+[Notetaking While Learning to Code](https://medium.com/@jenniferagrenier/how-totake-notes-while-learning-to-code-4ae9d4ac0f63)
+
 
