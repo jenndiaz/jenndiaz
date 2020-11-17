@@ -1,4 +1,4 @@
-# 👩🏼‍💻 I am a Full Stack Software Developer based in Denver Colorado 🏔 
+# 👩🏼‍💻 Full Stack Software Developer based in Denver Colorado 🏔 
 * I am passionate about web development that is accessible to all users. 
 * I have a background in community development and outdoor recreation management.
 * I look forward to collaborting and connecting with other developers. 
