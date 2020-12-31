@@ -1,6 +1,7 @@
-# 👩🏼‍💻 Full Stack Software Developer based in Denver Colorado 🏔 
+# 👩🏼‍💻 Jennifer Grenier - Full Stack Software Developer 🏔 
 * I am passionate about web development that is accessible and inclusive
-* I Completed the Flatiron Software Engineering Immersive November 2020 
+* I completed the Flatiron Software Engineering Immersive November 2020 
+* I am currently based in Denver, Colorado
 * I have a background in community development and outdoor recreation management
 * When not at my computer I enjoy Mountain Biking, Skiing, Hiking, and Rock Climbing
 * My pronouns are she/her. 
