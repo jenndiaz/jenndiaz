@@ -1,4 +1,4 @@
-# 👩🏼‍💻 Jennifer Grenier - Full Stack Software Developer 🏔 
+# 👩🏼‍💻 Jennifer (Grenier) Diaz - Full Stack Software Developer 🏔 
 * I am passionate about web development that is accessible and inclusive
 * I completed the Flatiron Software Engineering Immersive November 2020 
 * I am currently based in Denver, Colorado
