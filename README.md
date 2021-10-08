@@ -11,8 +11,6 @@ HTML, CSS, Javascript, React.js, Node.js, Ruby, Ruby on Rails, Git, Bootstrap, M
 ___
 
 ### Blog Posts 
-[Getting Start with React.js (part 1)](https://jagrenier.medium.com/getting-start-with-react-js-part-1-f03654846409)
-<br> 
 [How to Use the WAVE Web Accessibility Evaluation Tool](https://jagrenier.medium.com/how-to-use-the-wave-web-accessibility-evaluation-tool-9df8588a3d16)
 <br> 
 [Book Recommendations for Software Developers](https://jagrenier.medium.com/book-recommendations-for-software-developers-a491ff97134c)
