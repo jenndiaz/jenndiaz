@@ -6,11 +6,13 @@
 * When not at my computer I enjoy Mountain Biking, Skiing, Hiking, and Rock Climbing
 * My pronouns are she/her. 
 
-### Languages and Tools 
+## Languages and Tools 
 HTML, CSS, Javascript, React.js, Node.js, Ruby, Ruby on Rails, Git, Bootstrap, Material Ui, and SQL 
-___
 
-### Blog Posts 
+## Connect with me
+[LinkedIn](www.linkedin.com/in/jagdiaz)
+
+## Blog Posts 
 [How to Use the WAVE Web Accessibility Evaluation Tool](https://jagrenier.medium.com/how-to-use-the-wave-web-accessibility-evaluation-tool-9df8588a3d16)
 <br> 
 [Book Recommendations for Software Developers](https://jagrenier.medium.com/book-recommendations-for-software-developers-a491ff97134c)
