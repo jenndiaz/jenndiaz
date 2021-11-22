@@ -1,7 +1,7 @@
-# 👩🏼‍💻 Jennifer (Grenier) Diaz - Full Stack Software Developer 🏔 
+# 👩🏼‍💻 Jennifer Grenier Diaz - Full Stack Software Developer 🏔 
 * I am passionate about web development that is accessible and inclusive
-* I completed the Flatiron Software Engineering Immersive November 2020 
 * I am currently based in Fort Collins, Colorado
+* I am a bootcamp grad, Flatiron School, and currently work as a Jr Software Engineer at The Wanderlust Group
 * I have a background in community development and outdoor recreation management
 * When not at my computer I enjoy Mountain Biking, Skiing, Hiking, and Rock Climbing
 * My pronouns are she/her. 
@@ -10,9 +10,11 @@
 HTML, CSS, Javascript, React.js, Node.js, Ruby, Ruby on Rails, Git, Bootstrap, Material Ui, and SQL 
 
 ## Connect with me
-[LinkedIn](www.linkedin.com/in/jagdiaz)
+[LinkedIn](www.linkedin.com/in/jennifergrenierdiaz)
 
 ## Blog Posts 
+[Tips for Attending Your Firsy RubyConf](https://jagdiaz.medium.com/tips-for-attending-your-first-rubyconf-d9e86d326490)
+<br>
 [How to Use the WAVE Web Accessibility Evaluation Tool](https://jagrenier.medium.com/how-to-use-the-wave-web-accessibility-evaluation-tool-9df8588a3d16)
 <br> 
 [Book Recommendations for Software Developers](https://jagrenier.medium.com/book-recommendations-for-software-developers-a491ff97134c)
