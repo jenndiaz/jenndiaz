@@ -1,7 +1,6 @@
 # 👩🏼‍💻 Jennifer Grenier Diaz - Full Stack Software Developer 🏔 
 * I am passionate about web development that is accessible and inclusive
 * I am currently based in Fort Collins, Colorado
-* I am a bootcamp grad, Flatiron School, and currently work as a Jr Software Engineer at The Wanderlust Group
 * I have a background in community development and outdoor recreation management
 * When not at my computer I enjoy Mountain Biking, Skiing, Hiking, and Rock Climbing
 * My pronouns are she/her. 
