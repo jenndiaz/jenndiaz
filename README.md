@@ -1,12 +1,11 @@
 # 👩🏼‍💻 Jennifer Grenier Diaz - Full Stack Software Engineer 🏔 
 * I am passionate about web development that is accessible and inclusive
 * I am currently based in Fort Collins, Colorado
-* I have a background in community development and outdoor recreation management
 * When not at my computer I enjoy Mountain Biking, Skiing, and Hiking
 * My pronouns are she/her. 
 
 ## Languages and Tools 
-HTML, CSS, Javascript, React.js, Node.js, Ruby, Ruby on Rails, Git, Bootstrap, Material Ui, Tailwind CSS, and POstgreSQL 
+Ruby on Rails, Javascript, TailwindCss, DataDog, Heroku, rspec, and web accessibility(WCAG). 
 
 ## Connect with me
 [LinkedIn](www.linkedin.com/in/jennifergrenierdiaz)
