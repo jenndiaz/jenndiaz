@@ -8,7 +8,7 @@
 Ruby on Rails, Javascript, TailwindCss, DataDog, Heroku, rspec, and web accessibility(WCAG). 
 
 ## Connect with me
-[LinkedIn](www.linkedin.com/in/jennifergrenierdiaz)
+[LinkedIn](https://www.linkedin.com/in/jennifergrenierdiaz/)
 
 ## Blog Posts 
 [Tips for Attending Your Firsy RubyConf](https://jagdiaz.medium.com/tips-for-attending-your-first-rubyconf-d9e86d326490)
