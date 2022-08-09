@@ -11,7 +11,7 @@ Ruby on Rails, Javascript, TailwindCss, DataDog, Heroku, rspec, and web accessib
 [LinkedIn](https://www.linkedin.com/in/jennifergrenierdiaz/)
 
 ## Blog Posts 
-[Tips for Attending Your Firsy RubyConf](https://jagdiaz.medium.com/tips-for-attending-your-first-rubyconf-d9e86d326490)
+[Tips for Attending Your First RubyConf](https://jagdiaz.medium.com/tips-for-attending-your-first-rubyconf-d9e86d326490)
 <br>
 [How to Use the WAVE Web Accessibility Evaluation Tool](https://jagrenier.medium.com/how-to-use-the-wave-web-accessibility-evaluation-tool-9df8588a3d16)
 <br> 
