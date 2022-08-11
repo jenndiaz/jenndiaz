@@ -1,4 +1,4 @@
-# 👩🏼‍💻 Jennifer Grenier Diaz - Full Stack Software Engineer 🏔 
+# 👩🏼‍💻 Jennifer Grenier Diaz - Software Engineer 🏔 
 * I am passionate about web development that is accessible and inclusive
 * I am currently based in Fort Collins, Colorado
 * When not at my computer I enjoy mountain miking, skiing, and hiking
