@@ -5,7 +5,7 @@
 * My pronouns are she/her 
 
 ## Technical Skills
-CSS,HTML, JavaScript, Ruby on Rails, Rspec, React.js, PostgreSQL, TailwindCSS, Github, DataDog, Heroku, and Web Accessibility
+CSS, HTML, JavaScript, Ruby on Rails, Rspec, React.js, PostgreSQL, TailwindCSS, Github, DataDog, Heroku, and Web Accessibility
  
 
 ## Connect with me
