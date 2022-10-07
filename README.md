@@ -9,5 +9,7 @@ CSS, HTML, JavaScript, Ruby on Rails, Rspec, React.js, PostgreSQL, TailwindCSS, 
  
 
 ## Connect with me
+
 [LinkedIn](https://www.linkedin.com/in/jennifergrenierdiaz/)
+
 [Blog](https://jagdiaz.medium.com/)
