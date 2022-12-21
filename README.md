@@ -1,6 +1,5 @@
 # 👩🏼‍💻 Jennifer Grenier Diaz - Software Engineer 🏔 
 * Experienced software engineer passionate about ensuring accessibility and usability in web applications.
-* Background in working on a small team to deliver new features, decrease technical debt, and collaborate with designers.
 * pronouns: she/her 
 
 ## Technical Skills
