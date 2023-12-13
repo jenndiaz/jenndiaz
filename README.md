@@ -1,5 +1,5 @@
 # 👩🏼‍💻 Jennifer Grenier Diaz - Software Engineer 🏔 
-* Experienced software engineer passionate about ensuring accessibility and usability in web applications.
+* Experienced software engineer passionate about ensuring accessibility and usability in web applications
 *  IAAP Certified Professional in Accessibility Core Competencies (CPACC) 
 * pronouns: she/her 
 
