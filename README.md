@@ -1,11 +1,15 @@
 # 👩🏼‍💻 Jennifer Grenier Diaz - Software Engineer 🏔 
-* Experienced software engineer passionate about ensuring accessibility and usability in web applications
-*  IAAP Certified Professional in Accessibility Core Competencies (CPACC) 
-* pronouns: she/her
+* Experienced digital accessibility professional who enjoys solving complex usability and accessibility concerns.
+*  IAAP Certified Professional in Accessibility Core Competencies (CPACC)
+* pronouns: she/they
 
 ## Technical Skills
-CSS, HTML, JavaScript, Ruby on Rails, Rspec, React.js, PostgreSQL, TailwindCSS, Github, DataDog, Heroku, VocieOver, and Web Accessibility
- 
+### Web Development Skills
+CSS, HTML, JavaScript, React.js, Ruby on Rails, TailwindCSS, GitHub, DataDog, Docker, Storybook, Lit, Github, DataDog, Heroku,
+
+### Accessibility Testing
+NVDA, JAWS, Vocieover, Android Talk Back, Arc Tool Kit, Axe Dev Tools, Colour Contrast Analyzer, Adobe PDF auditing
+
 
 ## Connect with me
 
